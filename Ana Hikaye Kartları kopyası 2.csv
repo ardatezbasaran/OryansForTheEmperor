@@ -1,0 +1,81 @@
+﻿id;text;character;rightText;leftText;rightScienceStat;leftScienceStat;rightArmyStat;leftArmyStat;rightSourceStat;leftSourceStat;rightPeopleStat;leftPeopleStat;rightImperialTrustStat;leftImperialTrustStat;rightDanger;leftDanger;cardsImage;rightFollowingCard;leftFollowingCard;rightTimeSkip;leftTimeSkip
+1;RA-09 adlı Gezegene inişimizi yaptık, Ne yapalım ?;Kumandan Lastan;Kamp kurun, burada kalıyoruz.;Etrafı araştırmaya devam edin.;0;0;5;-4;0;7;5;-5;0;0;no;no;commanderLastan;2;2;true;true
+2;Kampımızın yakınlarında eski yapılar bulduk.;Bürokrat Fran;Yakından inceleyin.;Yaklaşmayın, tehlikeli olabilir.;5;-7;0;0;0;0;0;0;0;0;no;no;burocrateFran;3;3;true;true
+3;Soraklar'ın lideri sizinle görüşmek istiyor;Casus Roslon;Gelsin konuşalım.;Konuşmak istemiyorum. Sadece savaşıcaz.;0;0;-2;-7;5;0;2;-3;0;0;no;yes;agentRoslon;4;4;true;true
+4;Bu gezegende barış içinde yaşamakta, savaşmakta sizin ellerinizde.;Sorak Lideri Trastanya;Barış mı ?;Savaş mı ?;0;0;7;-7;7;-7;-7;7;-5;5;no;yes;sorakLeaderTrastanya;0;0;true;true
+5;İmparator mektubunda RA-09'un kontrolü hakkında sorular soruyor.;İmparator 4. Zralanus;Her şey kontrol altında.;Bazı sorunlar çıktı.;0;0;0;0;0;0;0;0;5;-5;no;no;emperorZralanus;0;0;true;true
+6;Bazı Soraklar yaralanmış durumdalar. ;Doktor Yelan;Tedavi edin.;Onları uzaklaştırın.;4;0;0;-5;-3;7;-5;5;-5;5;no;no;doctorYelan;0;0;true;true
+7;Sorakların organize olduğu söylentileri duyuyoruz;Casus Roslon;Bu bilginin doğrulunu kontrol et.;İzleyin ve şimdilik bekleyin.;0;0;-5;3;-7;5;0;-5;0;0;no;yes;agentRoslon;0;0;true;true
+8;Öksüz bir Sorak çocuğu bulduk. Ne yapmalıyız ?;Başrahip Kloten;Eğitime alıp asimile edin.;İade edin, karışmayın.;7;0;0;0;0;0;-5;5;5;-5;no;no;highPriestKloten;0;0;true;true
+9;Araştırmalarımız için çok önemli bir kazı bulduk ama maden çok tehlikeli.;Bilim Adamı Ysukan;Hemen çıkarılsın.;Şimdilik beklesin.;7;-7;0;4;5;-7;-4;0;0;0;no;no;scienceManYsukan;0;0;true;true
+10;Bu gezegenin ruhen kötülüğe ev sahipliği yaptığını düşünüyorum.;Başrahip Kloten;Temizlik için ayinler yapın.;Bu zırvalıklarla uğraşamam.;-7;5;0;0;-5;0;7;0;5;-5;no;no;highPriestKloten;0;0;true;true
+11;İçimizdeki fikir ayrılıkları bu koloni için çok tehlikeli.;Casus Roslon;Ayrılıkçı fikirde olanları tespit et.;Şimdilik göz yumacağım.;0;0;-4;4;0;0;-5;0;5;-5;no;no;agentRoslon;0;0;true;true
+12;Kolonimizi Ziyarete Danışman Seraphine teşrif etti.;Bürokrat Fran;Hoş Geldiniz Danışman Seraphine.;İmparator'umuz çok yaşa.;0;0;0;0;0;0;0;0;5;5;yes;yes;burocrateFran;13;13;false;false
+13;İmparator'umuz koloninizin son zamanlarda gerçekleşen olaylardan dolayı endişeli.;Danışman Seraphine;İmparator'umuz bu konuda haklıdır.;Bu durumu kabul etmiyorum.;0;0;0;0;0;0;-4;4;5;-5;yes;yes;consultantSeraphine;14;14;false;false
+14;Koloni'nin ekonomisine katkı için İmparator sizlere bir hediye gönderdi.;Danışman Seraphine;Teşekkürlerimi İmparator'a iletin.;Görüşmek üzere.;0;0;0;0;10;10;0;0;5;5;yes;yes;consultantSeraphine;0;0;true;true
+15;Askeri hazırlıklara başlamak gerekiyor.;Kumandan Lastan;Hazırlıklara başlayın.;Kaynaklarımızı şuan harcayamayız.;0;0;10;-4;-8;7;7;-4;5;-5;no;yes;commanderLastan;0;0;true;true
+16;Bilim üssünde beklemediğimiz bir patlama gerçekleşti.;Bilim Adamı Ysukan;Kurtarabildiğiniz kadar belgeyi kurtarın.;İnsanları kurtarın.;7;-7;0;4;0;0;5;-3;5;-5;no;no;scienceManYsukan;0;0;true;true
+17;Soraklar ilerlemeye başladılar.;Kumandan Lastan;Misliyle karşılık verin.;Sebebini araştırın, barış yolu bulun.;0;0;-4;5;0;0;7;-5;5;-5;no;yes;commanderLastan;0;0;true;true
+18;İmparatorluk kaynak payını ödemen gerekiyor.;İmparator 4. Zralanus;Uygun bir pay ayırabilirim;Şu an mümkün değil.;0;0;0;0;-5;3;-2;2;5;-10;no;yes;emperorZralanus;0;0;true;true
+19;Soraklar kendilerine ait Kutsal Bölgeye gidiyorlar.;General Psyton;Saygı duyun ve izin verin.;Gitmelerine kesinlikle izin vermeyin.;0;0;-7;5;5;0;5;-7;-5;5;yes;no;generalPsyton;0;0;true;true
+20;Bürokratlardan bazılarının Soraklara bilgi verdiğini duyduk.;Casus Roslon;İnfaz edin.;Yargılamak üzere tutuklayın.;0;0;4;-2;0;0;7;-4;5;-5;no;no;agentRoslon;0;0;true;true
+21;Sorakların büyücüleri çok büyük bir ayin yaparken yakalandılar;Başrahip Kloten;İnançlarını ve büyülerini araştırın;Kültürel saçmalık, yasaklayın.;7;-4;0;-5;0;0;-7;7;0;0;no;yes;highPriestKloten;0;0;true;true
+22;Yeni kristal yatağı keşfedildi.;Bilim Adamı Ysukan;Derhal çıkarıma başlayın.;Önce enerji tepkimesi ölçülsün.;-4;6;0;0;6;-2;0;0;0;0;no;no;scienceManYsukan;0;0;true;true
+23;Gezegenimizi kutsaması için Tanrı'mıza kurbanlar adamalıyız.;Başrahip Kloten;Tabii.;Bu saçmalık.;0;0;0;0;-7;5;7;-6;5;-5;no;no;highPriestKloten;0;0;true;true
+24;Arşivde bir sıkıntıdan ötürü verilerimiz çalındı. Sorakların yaptığını düşünüyoruz.;Mühendis Orkan;Bunları yapan Sorakları bulun;Verileri kurtarmaya öncelik vermeliyiz.;-6;5;-6;0;7;3;0;0;-5;-5;no;no;engineerOrkan;25;25;false;false
+25;Trastanya verileri çalan kişileri saklıyor ve bununla ilgili sadece sizinle görüşmek istediğini söylüyor.;Mühendis Orkan;Gönderin gelsin.;Verileri çalan kişileri verecek!;0;-5;0;0;0;-5;0;0;0;-5;no;no;engineerOrkan;26;26;false;false
+26;Sana verilerini çalan kişileri veririm fakat şartım var.;Sorak Lideri Trastanya;Seninle pazarlık etmeyeceğim.;Çıkar ağzındaki baklayı.;0;0;0;0;0;0;0;0;0;0;no;no;sorakLeaderTrastanya;27;27;true;false
+27;Bizleri Kutsal Bölgemize gideceğimiz zamanlarda rahat bırakacaksın;Sorak Lideri Trastanya;Dininize saygı duyuyorum.;Bunu kabul etmeyeceğiz.;0;0;5;-4;0;0;-7;5;-5;5;no;no;sorakLeaderTrastanya;0;0;true;true
+28;İmparator'un koloniye bir gözlemci gönderdiğini öğrendik, Ne yapalım ?;Casus Roslon;Bu bir test, onu izleyin.;İmparator'a rahatsız olduğuma dair bir mektup göndereceğim.;0;0;0;0;0;0;0;0;5;-5;no;no;agentRoslon;0;0;true;true
+29;Soraklar arasında İmparator’a karşı sloganlar duyulmaya başlandı;Casus Roslon;Sorumluları bulun.;Bu evrensel bir hoşnutsuzluk.;0;0;-5;3;-3;0;5;-7;5;-5;no;no;agentRoslon;30;30;false;false
+30;Bu protestolara karşı önlem almanı emrediiyorum.;İmparator 4. Zralanus;Tabii ki.;Emriniz olur.;0;0;-7;0;5;-4;0;0;5;-5;no;no;emperorZralanus;0;0;true;true
+31;Yerel radyo yayınında insanları aşağıladığım bir programa başladım.;Jol Frinz;Üst Kurul' a bunu sansürlemesini söyleyeceğim;Gülelim geçelim.;0;0;3;0;0;0;-10;7;0;0;no;no;jolFrinz;0;0;true;true
+32;Başrahip Kloten yeni gezegenin Oryans halkı için uğursuz olduğunu ilan etti;Bürokrat Raspon;Dini ritüeller düzenleyin.;Bu safsatalarla uğraşamam.;0;0;0;5;-4;5;7;-5;5;-5;no;no;burocrateRaspon;0;0;true;true
+33;Küçük çocuklarımız için eğitim talep ediyoruz.;Sorak Lideri Trastanya;Asimile olmayı kendileri istedi.;Oryans bilgisi Oryans’a kalır.;5;-3;5;-2;-6;7;6;-4;5;-5;no;no;sorakLeaderTrastanya;0;0;true;true
+34;Askerlerimizin son zamanlarda disiplin konusunda sıkıntılar çektiğini görüyoruz. Yeni eğitimler araştırmalıyız.;Kumandan Lastan;Eski yöntemlerle eğitime devam edelim;Yeni eğitimlerin araştırması yapılsın.;-4;6;2;7;4;-6;0;0;-5;5;no;yes;commanderLastan;0;0;true;true
+35;Bir Sorak avcısı devriyemize saldırmış. Sence bunu yanına bırakmalı mıyız?;Kumandan Lastan;Hayır, ibretlik ceza verelim.;Bireysel bir olay, dikkatle izleyelim.;0;0;-6;4;0;0;-4;3;0;0;yes;no;commanderLastan;36;36;false;false
+36;Protestocular meydanda toplanmış. Bize karşı sloganlar atıyorlar.;Casus Roslon;Dağıtın, örnek olsun.;Temsilcileriyle görüşün.;0;0;-5;3;0;0;-5;4;5;-5;yes;no;agentRoslon;0;0;false;false
+37;Enerji tüketimimiz çok arttı. Kaynaklarımız hızla eriyor.;Mühendis Orkan;Tasarruf politikası başlatıyorum.;Bu kadar erken sınırlamayalım.;4;-3;0;0;6;-5;-3;2;0;0;no;no;engineerOrkan;0;0;false;false
+38;Yarık çevresindeki doğumlar normal değil. Bu çocuklar… farklı.;Başrahip Kloten;Kutsal temizlik yapmalıyız.;Bilimsel analiz başlatalım.;-3;6;0;0;0;0;5;-4;0;0;no;no;highPriestKloten;0;0;false;false
+39;Kolonide bir söylenti yayılıyor: Tanrılar gökyüzünden geri dönecekmiş.;Bürokrat Fran;Bu efsaneyi halkı yönlendirmek için kullanalım.;Yayılmasını durduralım, bilgiyle açıklayalım.;-2;5;0;0;0;0;5;-3;0;0;no;no;burocrateFran;0;0;false;false
+40;Sorak kabilelerinden biri mühimmat taşıyan konvoyumuza pusu kurdu.;Kumandan Lastan;Hemen misliyle saldırıyorum.;Konvoy rotasını değiştirin, temasa geçin.;0;0;-7;4;0;0;-4;3;5;-5;yes;no;commanderLastan;0;0;false;false
+41;Kristallerle çalışan jeneratör birden aşırı enerji yükledi.;Bilim Adamı Ysukan;Kristali stabilize edin, deney devam etsin.;Sistemi kapatın, insanlar önemli.;6;-4;0;3;4;-5;-2;2;0;0;no;no;scienceManYsukan;0;0;false;false
+42;Halk arasında kristallerin lanetli olduğu yayılmaya başladı.;Bürokrat Fran;Bunu bir efsaneye dönüştürüp kontrol edelim.;Bilim adamlarını konuşturalım, açıklama yapsınlar.;-2;5;0;0;0;0;5;-3;0;0;no;no;burocrateFran;0;0;false;false
+43;Yeni atanan bir İmparatorluk hakimi yerel kararları hiçe sayıyor.;Casus Roslon;İzleyin, zayıf anında yakalayalım.;Merkeze şikayet mektubu yazın.;0;0;5;-3;0;0;-4;2;5;5;yes;no;agentRoslon;0;0;false;false
+44;Halk arasında günahlar arttı, cezalandırılmalar gerekiyor.;Başrahip Kloten;Toplu arınma ayinleri düzenleyin.;Daha fazla baskı halkı parçalar, sakin olun.;-4;3;0;0;0;0;4;-2;0;0;no;no;highPriestKloten;0;0;false;false
+45;Yeni keşfedilen maden bölgesi tam bir enerji merkezi olabilir.;Mühendis Orkan;Derhal kazıya başlayalım.;Önce stabilite analizleri yapalım.;-3;6;0;0;7;-4;0;0;0;0;no;no;engineerOrkan;0;0;false;false
+46;İmparator'un gözlemcisi, kararlarımızı merkeze eksik raporladığımızı iddia ediyor.;Casus Roslon;Onu susturmanın bir yolunu bulurum.;Kayıtları açın, şeffaf olalım.;0;0;6;-4;0;0;-3;3;5;-5;yes;no;agentRoslon;0;0;false;false
+47;Bazı askerler Sorak halkıyla yakınlaşıyor. Disiplinsizlik artabilir.;Kumandan Lastan;Sınırlar net çizilsin, yasak getiriyorum.;Sorun yok, sosyal denge sağlanmalı.;0;0;-5;4;0;0;-4;3;0;0;no;no;commanderLastan;0;0;false;false
+48;Kristal parçacıkları çevreye yayılmaya başladı, solunum sorunları baş gösteriyor.;Bilim Adamı Ysukan;Filtreleme sistemleri kurun.;Madenleri geçici süreyle durdurun.;5;-3;0;3;-5;5;-2;1;0;0;no;no;scienceManYsukan;0;0;false;false
+49;Sorak çocukları Oryans kıyafetleriyle oyun oynarken görüntülendi.;Bürokrat Fran;Oryan kültürü yayılıyor, güzel gelişme.;Bu yozlaşma, önlem alınmalı.;-2;3;0;0;0;0;5;-4;0;0;no;no;burocrateFran;0;0;false;false
+50;Yeni bir karargah kurulmasını emrediyorum!;İmparator 4. Zralanus;Emredildiği gibi kurun.;Kaynak yetersizliğini rapor edin.;0;0;-6;0;-7;4;0;0;5;-5;no;no;emperorZralanus;0;0;false;false
+51;İmparatorluk subayı, koloni içinde özel devriyeler kurmak istiyor.;Casus Roslon;Kabul ediyorum, güvenlik artar.;Hayır, yerel otorite biziz.;0;0;6;-5;0;0;-4;3;5;-5;yes;no;agentRoslon;0;0;false;false
+52;Halk manevi bir çöküş yaşıyor. Kitlesel bir dua etmemiz lazım;Başrahip Kloten;Dua birlikleri kurulsun.;Bu halk baskıya daha fazla dayanamaz.;-3;4;0;0;0;0;5;-4;0;0;no;no;highPriestKloten;0;0;false;false
+53;Koloniye yeni bir bilgi ağı kurmak isteyen bir bilim grubu var.;Bilim Adamı Ysukan;İzin verin, gelişmeyi hızlandırır.;Merkeze danışmadan olmaz.;6;-4;0;0;-3;3;-2;1;0;0;no;no;scienceManYsukan;0;0;false;false
+54;Bir grup Oryans askeri, Soraklara ait bir kutsal alanı tahrip etti.;Bürokrat Fran;Askerler cezalandırılsın.;Durum örtbas edilsin.;0;0;-5;4;0;0;6;-3;-5;5;no;no;burocrateFran;0;0;false;false
+55;Soraklar olarak bir grup temsilcim ile anlaşmak için masaya oturmayı istiyoruz.;Sorak Lideri Trastanya;Karşılayın, görüşme başlasın.;Reddedin, gücümüzle konuşuruz.;3;-2;-3;4;0;0;5;-4;0;0;no;no;sorakLeaderTrastanya;0;0;false;false
+56;Gönderdiğim denetim heyetini bizzat senin karşılamanı istiyorum.;İmparator 4. Zralanus;Heyeti karşılayın, denetime izin verin.;Bu müdahaledir, reddediyorum.;0;0;0;0;-6;4;-3;3;5;-5;no;no;emperorZralanus;0;0;false;false
+57;Halk arasında Sorakların müziği giderek popülerleşiyor.;Bürokrat Fran;Kültürel etkileşim doğal, sorun yok.;Bu yozlaşma! Yasaklayın.;-2;3;0;0;0;0;5;-4;0;0;no;no;burocrateFran;0;0;false;false
+58;Sınır hattı boyunca keşif uçuşlarına başlamak istiyorum.;Pilot Zortak;İzleme uçuşları başlasın.;Bölgelerine saygı gösterin, provoke etmeyin.;0;0;-5;4;0;0;-3;2;5;-5;yes;no;pilotZortak;0;0;false;false
+59;Yeni haberleşme sistemimi kristal bazlı enerjiyle kurabilirim.;Bilim Adamı Ysukan;Hemen devreye alın.;Test süreci olmadan olmaz.;6;-4;0;0;-4;3;-2;2;0;0;no;no;scienceManYsukan;0;0;false;false
+60;Bir Sorak gönüllü olarak ordumuza katılmak istiyor.;Casus Roslon;Alın, iyi bir mesaj olur.;Red edin, orduya karışamazlar.;0;0;5;-4;0;0;5;-3;0;0;no;no;agentRoslon;0;0;false;false
+61;Belirttiğim teknolojik ekipmanları bize geri göndermen gerekiyor.;İmparator 4. Zralanus;Gönderin, emirlere uyalım.;Hayır, burada ihtiyaç duyuluyor.;0;0;0;0;-6;4;-3;3;5;-5;no;no;emperorZralanus;0;0;false;false
+62;Halk ordudan uzaklaştı, güven azalıyor.;Bürokrat Fran;Halkla temas programı başlatın.;Ordunun duruşunu koruyun.;0;0;5;-4;0;0;4;-2;0;0;no;no;burocrateFran;0;0;false;false
+63;Askerlerden biri Soraklarla ticaret yaparken yakalandı.;Kumandan Lastan;Cezalandırın, emirleri çiğnedi.;Göz yumun, ortamı germeyin.;0;0;-5;4;0;0;-4;3;0;0;yes;no;commanderLastan;0;0;false;false
+64;Yeni bir enerji alanı bulduk ama ormanlık alanda yer alıyor.;Mühendis Orkan;Bölgeyi temizleyip kazıya başlayalım.;Doğaya zarar vermeden plan yapalım.;-3;5;0;0;6;-4;0;0;0;0;no;no;engineerOrkan;0;0;false;false
+65;Sorak şifacılar halkı etkiliyor, geleneksel inancımızı sarsıyorlar.;Başrahip Kloten;Onları tutuklayın.;Kutsal metinlerle rekabet etmeyin.;-3;4;0;0;0;0;5;-4;0;0;no;no;highPriestKloten;0;0;false;false
+66;Ordu içinde Sorak sempatisi yayılıyor.;Casus Roslon;Tespit edilenleri sürgüne gönderin.;Gizlice izlemeye devam edelim.;0;0;-6;4;0;0;-3;2;0;0;yes;no;agentRoslon;0;0;false;false
+67;Sorak dili sınıflarda konuşulmaya başlandı.;Bürokrat Fran;Yasaklayalım, kültürümüzü koruyalım.;Çok dillilik teşvik edilmeli.;-2;4;0;0;0;0;5;-3;0;0;no;no;burocrateFran;0;0;false;false
+68;Günlük raporlarımızı zayıf bulmuşlar.;Casus Roslon;Haber akışını artırayım.;Bu kadarı yeterli.;0;0;0;0;0;0;-3;2;5;-5;no;no;agentRoslon;0;0;false;false
+69;Sorak çocukları Oryan yazısını gizlice öğreniyor.;Trastanya;Bırakın öğrensinler.;Bu bir tehlike, engelleyin.;3;-2;0;0;0;0;5;-4;0;0;no;no;sorakLeaderTrastanya;0;0;false;false
+70;Sorakların kristalleri doğrudan etkileyebildiğini fark ettim.;Bilim Adamı Ysukan;Ortak deney öneriyorum.;Tehlike var, uzak duralım.;5;-3;0;0;-3;3;-2;2;0;0;no;no;scienceManYsukan;0;0;false;false
+71;Koloni liderlerinin yetkilerini kısıtlayana yasayı yürürlüğe soktum.;İmparator 4. Zralanus;Yasaya boyun eğiyorum.;Karşı çıkacağım, bu bizim bölgemiz.;0;0;0;0;0;0;-5;5;5;-5;yes;no;emperorZralanus;0;0;false;false
+72;Halk artık sokaklarda asker görmek istemiyor.;Bürokrat Fran;Devriye sayısını azaltın.;Sert tutum sürsün.;0;0;4;-5;0;0;5;-3;0;0;no;no;burocrateFran;0;0;false;false
+73;Soraklar sınır hattımıza kamp kurmuş durumda.;Kumandan Lastan;Kampı dağıtın.;Görüşme için temsilci yollayın.;0;0;-6;4;0;0;-4;3;0;0;yes;no;commanderLastan;0;0;false;false
+74;Yeni kazı alanında toksik gaz sızıntısı meydana geldi.;Mühendis Orkan;Bölgeyi mühürleyin.;Koruma ekipmanıyla kazıya devam.;5;-4;0;0;3;-3;-2;2;0;0;no;no;engineerOrkan;0;0;false;false
+75;Sorak sanatçıları kolonimizde bir gösteri yapmak istiyor.;Bürokrat Fran;Kabul edin, kültürel bağ kurar.;Reddedin, huzursuzluk çıkar.;-2;3;0;0;0;0;5;-4;0;0;no;no;burocrateFran;0;0;false;false
+76;Askerlerin bazıları Sorak bölgelerine izinsiz giriyor.;Casus Roslon;Yargılanmalarını sağlayın.;Uyarın, kayıt alın.;0;0;-5;4;0;0;4;-3;0;0;no;no;agentRoslon;0;0;false;false
+77;Sorak liderlerin karanlık tanrılardan bahsettiğini işittim.;Başrahip Kloten;Dini sorgulama başlatın.;İzleyin ama müdahale etmeyin.;-3;4;0;0;0;0;5;-3;0;0;yes;no;highPriestKloten;0;0;false;false
+78;Soraklar kristallerle ilgili bilgilerini bizimle paylaştı.;Bilim Adamı Ysukan;Geniş çaplı araştırma yapın.;İzole edin, güvenmeyin.;5;-4;0;0;-3;3;-2;2;0;0;no;no;scienceManYsukan;0;0;false;false
+79;Sorak öğrenciler Oryans sistemine alışmakta zorlanıyor.;Bürokrat Fran;Karma sınıf sistemi kurulsun.;Soraklara ayrı sistem uygulansın.;3;-2;0;0;0;0;4;-3;0;0;no;no;burocrateFran;0;0;false;false
+80;Vergi oranlarımız merkez tarafından tekrar artırıldı.;Casus Roslon;Uygulansın, emir üstten geldi.;Halkı korumak için itiraz ediyorum.;0;0;0;0;-6;4;-4;3;5;-5;no;no;agentRoslon;0;0;false;false
