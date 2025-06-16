@@ -1,0 +1,11 @@
+﻿id;text;character;rightText;leftText;rightScienceStat;leftScienceStat;rightArmyStat;leftArmyStat;rightSourceStat;leftSourceStat;rightPeopleStat;leftPeopleStat;rightImperialStat;leftImperialStat;rightDanger;leftDanger;cardsImage;rightFollowingCard;leftFollowingCard;rightTimeSkip;leftTimeSkip
+1001;RA-09’ın altında dev bir metalik yapı tespit ettik.;Mühendis Orkan;Henüz hazır değiliz, riski göze alamam.;Kazıya başlayalım, zamanı geldi.;-15;18;0;0;12;-18;0;0;0;0;no;no;engineerOrkan;0;0;false;false
+1002;Yeraltı tünelinde kazı sırasında bir şey hareket etti.;Casus Roslon;Devam edelim, kontrol bizde.;Tüm kazıcıları tahliye ediyorum.;18;0;0;15;0;-15;0;0;0;0;no;no;agentRoslon;0;0;false;false
+1003;Yerli Soraklar bu yapıya 'Yutucu Çukur' diyor.;Sorak Lideri Trastanya;Alanı kutsal ilan edelim.;Bilim insanları araştırmalı.;-12;18;0;0;0;0;18;-12;0;0;no;no;sorakLeaderTrastanya;0;0;false;false
+1004;Yüzeyde elektromanyetik patlamalar artıyor.;Bilim Adamı Ysukan;Geri çekiliyorum, dalgalar kararsız.;Ekipmanları güçlendiriyorum.;-12;18;0;0;12;-15;0;0;0;0;no;no;scienceManYsukan;0;0;false;false
+1005;Yapıdan gelen sesler halüsinasyonlara sebep oluyor.;Doktor Yelan;Korkakları görevden alacağım.;Tıbbi izolasyon başlatıyorum.;0;0;15;0;0;-12;-15;15;0;0;no;no;doctorKray;0;0;false;false
+1006;Merkeze bir keşif dronu göndermek istiyorum.;Pilot Zortak;Buna değmez, kaynak israfı.;Gönderiyorum, sonuçları merak ediyorum.;0;18;0;0;12;0;0;0;0;0;yes;no;zemVartok;0;0;false;false
+1007;Yapının iç duvarlarında dönen semboller görüyorum.;Mühendis Orkan;Yüzeyini aşındırıp açığa çıkaralım.;Kodları çözmeye çalışacağım.;-15;18;0;0;18;-15;0;0;0;0;no;no;engineerOrkan;0;0;false;false
+1008;Bir işçimiz konuşmayı kesti, gözleri parlıyor.;Doktor Yelan;Vurun, kontrol kaybedildi.;Karantinaya alıyorum, nedenini anlayacağız.;0;0;15;-12;0;0;-18;15;0;0;no;no;doctorKray;0;0;false;false
+1009;Yapının tabanında kristalize enerji yoğunluğu tespit ettim.;Bilim Adamı Ysukan;Enerji çıkışı başlatacağım.;Sadece numune alıp dokunmadan bırakıyorum.;0;15;0;0;18;0;0;0;0;0;yes;no;scienceManYsukan;0;0;false;false
+1010;Bu yapı tanrılara ait, dokunulmamalı.;Başrahip Kloten;Bilim galip gelmeli, devam ediyoruz.;Dini tören düzenleyeceğim.;18;-15;0;0;0;0;-15;18;0;0;no;no;highPriestKloten;0;0;false;false
